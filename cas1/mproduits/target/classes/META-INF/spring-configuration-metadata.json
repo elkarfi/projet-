@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "mes-configs",
+      "type": "com.mproduits.mproduits.configurations.ApplicationPropertiesConfiguration",
+      "sourceType": "com.mproduits.mproduits.configurations.ApplicationPropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mes-configs.limit-de-produits",
+      "type": "java.lang.Integer",
+      "sourceType": "com.mproduits.mproduits.configurations.ApplicationPropertiesConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,6 @@
+com/mproduits/mproduits/controller/ProductController.class
+META-INF/spring-configuration-metadata.json
+com/mproduits/mproduits/MproduitsApplication.class
+com/mproduits/mproduits/model/Product.class
+com/mproduits/mproduits/configurations/ApplicationPropertiesConfiguration.class
+com/mproduits/mproduits/dao/ProductDao.class
