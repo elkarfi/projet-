@@ -1,5 +1,5 @@
-/Users/macbookpro/Downloads/TP3-SpringCloudConfig(1)/mproduits/src/main/java/com/mproduits/mproduits/configurations/ApplicationPropertiesConfiguration.java
-/Users/macbookpro/Downloads/TP3-SpringCloudConfig(1)/mproduits/src/main/java/com/mproduits/mproduits/controller/ProductController.java
-/Users/macbookpro/Downloads/TP3-SpringCloudConfig(1)/mproduits/src/main/java/com/mproduits/mproduits/MproduitsApplication.java
-/Users/macbookpro/Downloads/TP3-SpringCloudConfig(1)/mproduits/src/main/java/com/mproduits/mproduits/dao/ProductDao.java
-/Users/macbookpro/Downloads/TP3-SpringCloudConfig(1)/mproduits/src/main/java/com/mproduits/mproduits/model/Product.java
+/Users/macbookpro/Downloads/projet/cas1/mproduits/src/main/java/com/mproduits/mproduits/dao/ProductDao.java
+/Users/macbookpro/Downloads/projet/cas1/mproduits/src/main/java/com/mproduits/mproduits/MproduitsApplication.java
+/Users/macbookpro/Downloads/projet/cas1/mproduits/src/main/java/com/mproduits/mproduits/model/Product.java
+/Users/macbookpro/Downloads/projet/cas1/mproduits/src/main/java/com/mproduits/mproduits/configurations/ApplicationPropertiesConfiguration.java
+/Users/macbookpro/Downloads/projet/cas1/mproduits/src/main/java/com/mproduits/mproduits/controller/ProductController.java
